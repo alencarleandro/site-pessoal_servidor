@@ -1,27 +1,56 @@
 {
   "repositorios": [
-   
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    },
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    },
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    },
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    },
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    } ,
+    {
+      "foto": "",
+      "titulo": "",
+      "descricao": ""
+    }   
   ],  
   "recomendacoes": [
     {
-      "imagem": "",
-      "link": ""
+      "imagem": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Java-LeonardoLeitao.png",
+      "link": "https://www.udemy.com/course/fundamentos-de-programacao-com-java/"
     },
     {
-      "imagem": "",
-      "link": ""
+      "imagem": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Java-NelioAlves.png",
+      "link": "https://www.udemy.com/course/java-curso-completo/"
     },
     {
-      "imagem": "",
-      "link": ""
+      "imagem": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Java-PadroesDeProjeto.png",
+      "link": "https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/"
     },
     {
-      "imagem": "",
-      "link": ""
+      "imagem": "https://github.com/alencarleandro/site-pessoal_servidor/blob/main/img/MarcoMaddo.png",
+      "link": "https://www.udemy.com/course/desenvolvimento-android-do-absoluto-zero-para-iniciantes/"
     },
     {
-      "imagem": "",
-      "link": ""
+      "imagem": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/BancoDeDados.png",
+      "link": "https://www.udemy.com/course/curso-completo-de-banco-de-dados-relacionais/"
     }   
   ],  
   "colegas": [
