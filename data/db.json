@@ -65,22 +65,22 @@
    {
     "nome": "Brenda Evers",
     "link": "https://github.com/brehhvers",
-    "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Everest.png"
+    "gitHubApi": "https://api.github.com/users/brehhvers"
    },
    {
     "nome": "Islayder Jackson",
     "link": "https://github.com/Islayder",
-    "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Islayder.png"
+    "gitHubApi": "https://api.github.com/users/Islayder"
    },
    {
     "nome": "Gabriel Lacerda",
     "link": "https://github.com/GabrielLacerdaL",
-    "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/GabrielLacerda.png"
+    "gitHubApi": "https://api.github.com/users/GabrielLacerdaL"
    },
    {
     "nome": "Gabriel Aguiar",
     "link": "https://github.com/Gabrigas",
-    "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/GabrielAguiar.png"
+    "gitHubApi": "https://api.github.com/users/Gabrigas"
    }
   ]
 }
