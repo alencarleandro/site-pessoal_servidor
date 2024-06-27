@@ -1,4 +1,12 @@
 {
+  "minhasFotos": [
+    {
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/eu5.jpeg"
+    },
+    {
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/eu3.png"
+    }
+  ],
   "repositorios": [
     {
       "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/LogoVazia.png",
