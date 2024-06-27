@@ -1,35 +1,30 @@
 {
   "repositorios": [
     {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/LogoVazia.png",
+      "titulo": "Legnu_INFORTEC - ERP",
+      "descricao": "Um programa de gestão comercial eficiente e adaptável para seu negócio."
     },
     {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/LogoVazia.png",
+      "titulo": "Legnu_INFORTEC - Disparador",
+      "descricao": "Um disparador de mensagens, fotos e vídeos em massa para contatos nas redes sociais e email."
     },
     {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Marca%20do%20ferreiro.png",
+      "titulo": "Oficina do Ferreiro",
+      "descricao": "Um programa para auxiliar mestres em RPG, auxiliando em combates e agilizando operações nas fichas."
     },
     {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/hotel.png",
+      "titulo": "Hotel Descanso Garantido",
+      "descricao": "Um programa escrito em C com o objetivo de gerenciar um hotel."
     },
     {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
-    } ,
-    {
-      "foto": "",
-      "titulo": "",
-      "descricao": ""
-    }   
+      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/simbolo-de-banco-de-dados-em-branco.png",
+      "titulo": "Servidor Site Pessoal",
+      "descricao": "Servidor do site pessoal, contem as imagens ultilizadas e mais alguns dados."
+    }  
   ],  
   "recomendacoes": [
     {
