@@ -9,18 +9,6 @@
   ],
   "repositorios": [
     {
-      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/LogoVazia.png",
-      "titulo": "Legnu INFORTEC - ERP",
-      "descricao": "Um programa de gestão comercial eficiente e adaptável para seu negócio.",
-      "link": ""
-    },
-    {
-      "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/LogoVazia.png",
-      "titulo": "Legnu INFORTEC - Disparador",
-      "descricao": "Um disparador de mensagens, fotos e vídeos em massa para contatos nas redes sociais e email.",
-      "link": ""
-    },
-    {
       "foto": "https://raw.githubusercontent.com/alencarleandro/site-pessoal_servidor/main/img/Marca%20do%20ferreiro.png",
       "titulo": "Oficina do Ferreiro",
       "descricao": "Um programa para auxiliar mestres em RPG, auxiliando em combates e agilizando operações nas fichas.",
